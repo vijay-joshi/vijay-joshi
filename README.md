@@ -19,7 +19,7 @@ I'm <a href="https://twitter.com/v08i">Vijay Joshi</a></h3>
         <li>🌱 I’m learning Netlify and Heroku and trying to be proficient in Flutter and Dart</li>
         <li>✨ I plan to launch at least 10 web or mobile apps by mid 2021</li>
         <li>👯 I’m currently trying to learn Spanish language</li>
-        <li>📫 How to reach me: <a href="https://twitter.com/v08i">Vijay Joshi</a></li>
+        <li>📫 How to reach me: <a href="https://twitter.com/v08i">tweet me!</a></li>
         <li>⚡ I'm : Lets talk about books and morality</li>
   </ul>
 
