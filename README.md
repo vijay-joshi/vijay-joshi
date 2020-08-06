@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=vijay-joshi&show_icons=true">
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=vijay-joshi&show_icons=true"> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-joshi">
 </p>
