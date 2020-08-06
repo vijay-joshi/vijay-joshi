@@ -5,8 +5,7 @@ I'm <a href="https://twitter.com/v08i">Vijay Joshi</a></h3>
 
 <h3>Connect with me</h3>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/v08i)  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/joshivijay/](https://www.linkedin.com/in/joshivijay/)) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/v08i) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joshivijay/)
 
 
 <p> I am an experienced full stack web developer with a proven history in JavaScript, jQuery, PHP, NodeJS and VueJS among others. Currently working as Web Development Engineer - III at <a href="https://www.corevaluetech.com/" target="_blank" class="btn-link" >CoreValue Technologies</a> where I work on awesome products and mentor junior devs as well. In the past I have worked with different companies as freelancer, software developer, consultant, author among other capacities. These companies include but are not limited; 
