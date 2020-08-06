@@ -12,7 +12,7 @@
 	<a href="https://maxposuremedia.com/"  target="_blank" class="btn-link">Maxposure</a>.
   </p>
    <ul>
-        <li>🔭 I’m currently working at <a href="https://www.corevaluetech.com/" target="_blank" class="btn-link" >CoreValue Technologies</a></li>
+        <li>🔭 I currently work at <a href="https://www.corevaluetech.com/" target="_blank" class="btn-link" >CoreValue Technologies</a></li>
         <li>🌱 I’m learning Netlify and Heroku and trying to be proficient in Flutter and Dart</li>
 	<li>📚 I’m a published author of three books on web development. You can find them on my <a href="https://www.amazon.com/Vijay-Joshi/e/B008M2N5C8" target="_blank">Amazon author page</a></li>
         <li>✨ I plan to launch at least 10 web or mobile apps by mid 2021</li>
@@ -26,10 +26,11 @@
   		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+		<code><img height="20" src="https://cdn3.iconfinder.com/data/icons/flat-icons-web/40/WordPress-512.png"></code>
 		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
     
     
 
