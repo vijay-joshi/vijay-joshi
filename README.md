@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Joshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p> I am an experienced full stack web developer with a proven history in JavaScript, jQuery, PHP, NodeJS and VueJS among others. Currently working as Web Development Engineer - III at <a href="https://www.corevaluetech.com/" target="_blank" >CoreValue Technologies</a> where I work on awesome products and mentor junior devs as well. In the past I have worked with different companies as freelancer, software developer, consultant, author among other capacities. These companies include but are not limited to; 
 	<a href="http://philogy.com/" target="_blank" class="btn-link">Philogy</a>,
@@ -22,6 +22,10 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-joshi" alt="vijay-joshi" /> </p>
+
+
+<p> </p>
+
 
 
 <p align="left">
