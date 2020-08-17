@@ -1,9 +1,5 @@
-<h3>Hey 👋, I'm <a href="https://twitter.com/v08i">Vijay Joshi</a></h3>
-
-<h3>Connect with me</h3>
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/v08i) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joshivijay/)
-
+<h1 align="center">Hi 👋, I'm Vijay Joshi</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p> I am an experienced full stack web developer with a proven history in JavaScript, jQuery, PHP, NodeJS and VueJS among others. Currently working as Web Development Engineer - III at <a href="https://www.corevaluetech.com/" target="_blank" >CoreValue Technologies</a> where I work on awesome products and mentor junior devs as well. In the past I have worked with different companies as freelancer, software developer, consultant, author among other capacities. These companies include but are not limited to; 
 	<a href="http://philogy.com/" target="_blank" class="btn-link">Philogy</a>,
@@ -11,6 +7,20 @@
 	<a href="https://www.packtpub.com/" target="_blank" class="btn-link">Packt Publishing Private Limited</a>,
 	<a href="https://maxposuremedia.com/"  target="_blank" class="btn-link">Maxposure</a>.
   </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-joshi" alt="vijay-joshi" /> </p>
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-joshi&layout=compact&hide=html" alt="vijay-joshi" /></p>
+
+<p align="center">
+<a href="https://twitter.com/v08i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="v08i" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/joshivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joshivijay" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/7849343" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7849343" height="30" width="30" /></a>
+<a href="https://medium.com/@v08i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@v08i" height="30" width="30" /></a>
+</p>
+
+
    <ul>
         <li>🔭 I currently work at <a href="https://www.corevaluetech.com/" target="_blank" class="btn-link" >CoreValue Technologies</a></li>
         <li>🌱 I’m learning Netlify and Heroku and trying to be proficient in Flutter and Dart</li>
@@ -20,19 +30,6 @@
         <li>📫 How to reach me about books, business or just banter: <a href="https://twitter.com/v08i">Tweet me!</a></li>
         <li>⚡ I'm : Lets talk about books and morality</li>
   </ul>
-
-
-  <h3>Languages and tools</h3>
-  		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-		<code><img height="20" src="https://cdn3.iconfinder.com/data/icons/flat-icons-web/40/WordPress-512.png"></code>
-		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-		<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-    
-    
 
 
 <p align = "center">
