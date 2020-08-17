@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vijay Joshi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+
+<p align="center">
+<a href="https://twitter.com/v08i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="v08i" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/joshivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joshivijay" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/7849343" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7849343" height="30" width="30" /></a>
+<a href="https://medium.com/@v08i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@v08i" height="30" width="30" /></a>
+</p>
+
+
+
 <p> I am an experienced full stack web developer with a proven history in JavaScript, jQuery, PHP, NodeJS and VueJS among others. Currently working as Web Development Engineer - III at <a href="https://www.corevaluetech.com/" target="_blank" >CoreValue Technologies</a> where I work on awesome products and mentor junior devs as well. In the past I have worked with different companies as freelancer, software developer, consultant, author among other capacities. These companies include but are not limited to; 
 	<a href="http://philogy.com/" target="_blank" class="btn-link">Philogy</a>,
 	<a href="http://developerslab.in/ target="_blank" class="btn-link">Developers Lab</a>,
@@ -44,13 +54,6 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
-
-<p align="center">
-<a href="https://twitter.com/v08i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="v08i" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/joshivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joshivijay" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/7849343" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7849343" height="30" width="30" /></a>
-<a href="https://medium.com/@v08i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@v08i" height="30" width="30" /></a>
-</p>
 
 
 
