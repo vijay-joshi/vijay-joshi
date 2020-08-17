@@ -31,7 +31,8 @@
   </ul>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-joshi" alt="vijay-joshi" /> </p>
+<br>
+<br>
 
 
 <p> </p>
@@ -63,3 +64,5 @@
 </p>
 
 P.S.: I have to make sure the stats above include a lot of things from JS world.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-joshi" alt="vijay-joshi" /> </p>
