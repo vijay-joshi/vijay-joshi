@@ -1,0 +1,19 @@
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
+
+### Hexo ###
+db.json
+public/
+.deploy_git/
+
+# End
+.DS_Store
+Thumbs.db
+*.log
+.deploy*/
