@@ -3,12 +3,11 @@
 
 
 <p align="center">
-<a href="https://twitter.com/v08i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="v08i" height="30" width="30" /></a>
-	
-<a href="https://linkedin.com/in/joshivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joshivijay" height="30" width="30" /></a>
-
+<a href="https://twitter.com/v08i" target="blank"><img align="left" alt="Vijay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/in/joshivijay" target="blank">
+  <img align="left" alt="Vijay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://stackoverflow.com/users/7849343" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7849343" height="30" width="30" /></a>
-
 <a href="https://medium.com/@v08i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@v08i" height="30" width="30" /></a>
 </p>
 
