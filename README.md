@@ -23,7 +23,6 @@
         <li>🔭 I currently work at <a href="https://www.corevaluetech.com/" target="_blank" class="btn-link" >CoreValue Technologies</a></li>
         <li>🌱 I’m learning Tailwind CSS, Netlify and Heroku and trying to be proficient in Flutter and Dart</li>
 	<li>📚 I’m a published author of three books on web development. You can find them on my <a href="https://www.amazon.com/Vijay-Joshi/e/B008M2N5C8" target="_blank">Amazon author page</a>.</li>
-        <li>✨ I plan to launch at least 5 meaningful web or mobile apps by mid 2021</li>
         <li>👯 I’m currently trying to learn Spanish language</li>
         <li>📫 How to reach me about books, business or just banter: <a href="https://twitter.com/v08i">Tweet me!</a></li>
         <li>⚡ I'm : Lets talk about books and morality</li>
