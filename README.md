@@ -10,7 +10,7 @@
 
 
 
-<p> I am an experienced full stack web developer with a proven history in JavaScript, jQuery, PHP, NodeJS and VueJS among others. Currently working as Web Development Engineer - III at <a href="https://www.corevaluetech.com/" target="_blank" >CoreValue Technologies</a> where I work on awesome products and mentor junior devs as well. In the past I have worked with different companies as freelancer, software developer, consultant, author among other capacities. These companies include but are not limited to; 
+<p> I am an experienced full stack web developer with a proven history in NodeJS, JavaScript, VueJS, jQuery and PHP among others. Currently working as a Sr. Full Stack Developer <a href="https://www.corevaluetech.com/" target="_blank" >CoreValue Technologies</a> where I work on awesome products and mentor junior devs as well. In the past I have worked with different companies as freelancer, software developer, consultant, author among other capacities. These companies include but are not limited to; 
 	<a href="http://philogy.com/" target="_blank" class="btn-link">Philogy</a>,
 	<a href="http://developerslab.in/ target="_blank" class="btn-link">Developers Lab</a>,
 	<a href="https://www.packtpub.com/" target="_blank" class="btn-link">Packt Publishing Private Limited</a>,
